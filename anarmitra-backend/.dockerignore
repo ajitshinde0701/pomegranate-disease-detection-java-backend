@@ -2,10 +2,10 @@
 .github
 .gitignore
 README.md
-anarmitra-backend/target/
-anarmitra-backend/.settings/
-anarmitra-backend/.project
-anarmitra-backend/.classpath
-anarmitra-backend/mvnw
-anarmitra-backend/mvnw.cmd
-anarmitra-backend/.mvn/
+target/
+.settings/
+.project
+.classpath
+mvnw
+mvnw.cmd
+.mvn/
