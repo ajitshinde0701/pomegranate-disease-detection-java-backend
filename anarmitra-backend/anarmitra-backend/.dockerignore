@@ -1,0 +1,11 @@
+.git
+.github
+.gitignore
+README.md
+target/
+.settings/
+.project
+.classpath
+mvnw
+mvnw.cmd
+.mvn/
